@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ric-cde
+- 👀 I’m interested in journalism, data visualisation, web development, and learning design
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on non-profit and journalistic projects
