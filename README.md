@@ -5,6 +5,6 @@
 
 View a full portfolio of my GitHub projects (including live web apps) here:
 
-<a href="https://ric-cde.github.io/portfolio/" target="_blank">Web Portfolio↗</a>
+<a href="https://ric-cde.github.io/portfolio/" target="_blank">Web Portfolio</a>
 
-<a href="https://www.linkedin.com/in/richardherlihy/" target="_blank">LinkedIn↗</a>
+<a href="https://www.linkedin.com/in/richardherlihy/" target="_blank">LinkedIn</a>
