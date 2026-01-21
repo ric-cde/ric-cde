@@ -5,4 +5,4 @@
 
 View a full portfolio of my GitHub projects (including live web apps) here:
 
-[Web portfolio](https://ric-cde.github.io/portfolio/)
+<a href="https://ric-cde.github.io/portfolio/" target="_blank">Web Portfolio↗</a>
